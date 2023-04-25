@@ -1,0 +1,24 @@
+{
+  "name": "glitch-mvp-node",
+  "version": "0.1.1",
+  "description": "A simple Node app built on fastify, instantly up and running.",
+  "main": "node_modules/.bin/status-server",
+  "scripts": {
+    "prestart": "bash start.sh",
+    "start": "node_modules/.bin/status-server"
+  },
+  "dependencies": {
+    "nodestatus-server": "^1.2.7-beta.4"
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/glitch-mvp-node"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch"
+  ]
+}
