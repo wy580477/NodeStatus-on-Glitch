@@ -20,7 +20,7 @@
 | :--- | :--- | :--- |
 | `DATABASE` | `` | 数据库连接 URL |
 | `WEB_PASSWORD` | `` | 管理面板密码 |
-| `NO_HEADER` | `true` | 禁用标题图片 |
+| `NO_HEADER` | `Enable` | 禁用标题图片 |
 | `WEB_TITLE` | `` | 标题文字 |
 | `WEB_SUBTITLE` | `` | 副标题文字 |
 
