@@ -30,11 +30,13 @@
 
 由于免费 Glitch 项目只能是公开项目，强烈建议连接外部数据库。
 
-bit.to 免费 PostgreSQL 数据库:
+**bit.to 将于 2023.6.29 停止服务**
 
-1. 前往 https://bit.io/ 注册账号，并新建一个数据库。
-2. 点击数据库名称，进入数据库管理页面，点击左侧的 Connection，复制 "Postgres Connection" 下方字符串即为数据库连接 URL。
-3. 注意要把数据库连接 URL 中最后一个 "/" 替换为 "." , 例如结尾的 user/mydatabase 要改为 user.database 。
+elephantsql 免费 PostgreSQL 数据库
+
+1. 前往 https://www.elephantsql.com 注册账号，并新建一个数据库。
+2. 点击数据库名称，进入数据库管理页面，右侧的 Details 下方，复制 "URL" 项即为数据库连接 URL。
+
 
 ## 部署
 
