@@ -8,7 +8,7 @@
     "start": "node_modules/.bin/status-server"
   },
   "dependencies": {
-    "nodestatus-server": "^1.2.7-beta.4"
+    "nodestatus-server": "^1.2.7-beta.5"
   },
   "engines": {
     "node": "16.x"
